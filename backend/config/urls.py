@@ -1,8 +1,6 @@
 """
 Django项目URL配置
 定义项目的URL路由
-
-作者: 刘怀仁
 """
 
 from django.contrib import admin

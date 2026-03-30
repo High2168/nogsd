@@ -1,8 +1,6 @@
 """
 用户模块序列化器
 定义API的输入输出格式
-
-作者: 刘怀仁
 """
 
 from rest_framework import serializers

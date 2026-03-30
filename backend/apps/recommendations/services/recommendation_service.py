@@ -1,8 +1,6 @@
 """
 推荐服务层
 封装推荐算法，提供统一的推荐接口
-
-作者: 刘怀仁
 """
 
 from typing import Dict, List, Set

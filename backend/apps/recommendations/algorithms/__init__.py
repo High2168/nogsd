@@ -6,8 +6,6 @@
     - ItemBasedCF: 基于物品的协同过滤
     - ColdStartHandler: 冷启动处理
     - HybridRecommender: 混合推荐器
-
-作者: 刘怀仁
 """
 
 from .user_based_cf import UserBasedCF

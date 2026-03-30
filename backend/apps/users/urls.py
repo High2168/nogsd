@@ -1,8 +1,6 @@
 """
 用户模块URL配置
 定义用户相关的API路由
-
-作者: 刘怀仁
 """
 
 from django.urls import path

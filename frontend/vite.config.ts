@@ -1,8 +1,6 @@
 /**
  * Vite配置文件
  * 配置Vue项目构建选项
- *
- * 作者: 刘怀仁
  */
 
 import { defineConfig } from 'vite'

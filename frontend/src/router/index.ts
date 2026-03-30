@@ -1,8 +1,6 @@
 /**
  * Vue Router配置
  * 定义应用的路由规则
- *
- * 作者: 刘怀仁
  */
 
 import { createRouter, createWebHistory } from 'vue-router'

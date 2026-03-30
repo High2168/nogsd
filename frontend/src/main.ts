@@ -1,8 +1,6 @@
 /**
  * Vue应用入口文件
  * 初始化Vue应用、插件、全局配置
- *
- * 作者: 刘怀仁
  */
 
 import { createApp } from 'vue'

@@ -1,7 +1,5 @@
 /**
  * Axios配置和API基础设置
- *
- * 作者: 刘怀仁
  */
 
 import axios from 'axios'

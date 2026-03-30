@@ -1,8 +1,6 @@
 """
 用户模块视图
 处理用户注册、登录、个人信息等API
-
-作者: 刘怀仁
 """
 
 from rest_framework import status, generics

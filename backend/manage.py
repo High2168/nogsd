@@ -8,8 +8,6 @@ Django项目管理脚本
     python manage.py migrate       # 执行数据库迁移
     python manage.py createsuperuser  # 创建管理员账号
     python manage.py test          # 运行测试
-
-作者: 刘怀仁
 """
 
 import os

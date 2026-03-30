@@ -2,7 +2,6 @@
   "name": "job-recommendation-frontend",
   "version": "1.0.0",
   "description": "基于协同过滤的就业推荐系统前端",
-  "author": "刘怀仁",
   "private": true,
   "type": "module",
   "scripts": {

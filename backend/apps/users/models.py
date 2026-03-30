@@ -1,9 +1,6 @@
 """
 用户模型定义
 包含自定义用户模型和用户画像模型
-
-作者: 刘怀仁
-学校: 齐鲁工业大学
 """
 
 from django.contrib.auth.models import AbstractUser

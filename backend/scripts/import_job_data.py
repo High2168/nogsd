@@ -14,9 +14,7 @@
 运行方式:
     python manage.py shell
     >>> from scripts.import_job_data import import_data
-    >>> import_data(r"C:\Users\qingd\Downloads\data job posts.csv\data job posts.csv")
-
-作者: 刘怀仁
+    >>> import_data(r"path/to/job_posts.csv")
 """
 
 import pandas as pd

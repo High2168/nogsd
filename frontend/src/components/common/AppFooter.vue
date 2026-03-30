@@ -1,7 +1,5 @@
 <!--
   公共组件 - 底部信息
-
-  作者: 刘怀仁
 -->
 
 <template>
@@ -10,7 +8,7 @@
       <div class="footer-info">
         <p>基于协同过滤的就业推荐系统</p>
         <p class="copyright">
-          © 2026 刘怀仁 | 齐鲁工业大学 智能科学与技术
+          © 2026 就业推荐系统
         </p>
       </div>
       <div class="footer-links">

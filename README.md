@@ -4,7 +4,6 @@
 
 本项目是一个基于协同过滤算法的就业推荐系统，为毕业生提供个性化的职位推荐服务。
 
-
 ## 界面预览
 
 系统界面全部为**中文**，包含：
@@ -105,7 +104,7 @@ python manage.py shell
 
 # 在shell中执行:
 >>> from apps.data.import_data import import_data
->>> import_data(r"C:\Users\qingd\Downloads\data job posts.csv\data job posts.csv", limit=2000)
+>>> import_data(r"path/to/job_posts.csv", limit=2000)
 ```
 
 或者直接运行：
@@ -215,4 +214,3 @@ npm run dev
 ## 许可证
 
 本项目仅用于毕业设计，未经授权不得用于商业用途。
-

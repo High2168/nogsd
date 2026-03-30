@@ -1,8 +1,6 @@
 """
 职位模块URL配置
 定义职位相关的API路由
-
-作者: 刘怀仁
 """
 
 from django.urls import path

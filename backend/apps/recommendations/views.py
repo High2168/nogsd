@@ -1,8 +1,6 @@
 """
 推荐模块视图
 处理推荐结果获取、用户交互等API
-
-作者: 刘怀仁
 """
 
 from rest_framework import generics, status

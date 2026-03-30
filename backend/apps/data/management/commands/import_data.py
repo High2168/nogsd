@@ -3,9 +3,7 @@ Django管理命令 - 导入职位数据
 可以直接通过命令行运行
 
 使用方法:
-    python manage.py import_data "C:\Users\qingd\Downloads\data job posts.csv\data job posts.csv" --limit 2000
-
-作者: 刘怀仁
+    python manage.py import_data "path/to/job_posts.csv" --limit 2000
 """
 
 from django.core.management.base import BaseCommand

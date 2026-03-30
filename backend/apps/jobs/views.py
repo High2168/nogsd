@@ -1,8 +1,6 @@
 """
 职位模块视图
 处理职位列表、详情、搜索等API
-
-作者: 刘怀仁
 """
 
 from rest_framework import generics, status

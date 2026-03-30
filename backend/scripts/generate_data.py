@@ -6,8 +6,6 @@
     python manage.py shell
     >>> from scripts.generate_data import generate_all_data
     >>> generate_all_data()
-
-作者: 刘怀仁
 """
 
 import random

@@ -2,12 +2,11 @@
 chcp 65001 >nul
 echo ========================================
 echo 导入职位数据
-echo 作者: 刘怀仁
 echo ========================================
 echo.
 
 :: 设置CSV文件路径
-set CSV_PATH=C:\Users\qingd\Downloads\data job posts.csv\data job posts.csv
+set CSV_PATH=path\to\job_posts.csv
 
 :: 检查文件是否存在
 if not exist "%CSV_PATH%" (

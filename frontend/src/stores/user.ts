@@ -1,8 +1,6 @@
 /**
  * 用户状态管理
  * 使用Pinia管理用户状态
- *
- * 作者: 刘怀仁
  */
 
 import { defineStore } from 'pinia'

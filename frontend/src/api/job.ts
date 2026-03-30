@@ -1,7 +1,5 @@
 /**
  * 职位相关API
- *
- * 作者: 刘怀仁
  */
 
 import { request } from './index'
