@@ -1,0 +1,12 @@
+"""
+用户模块配置
+"""
+
+from django.apps import AppConfig
+
+
+class UsersConfig(AppConfig):
+    """用户模块配置类"""
+    default_auto_field = 'django.db.models.BigAutoField'
+    name = 'apps.users'
+    verbose_name = '用户管理'
